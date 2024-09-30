@@ -1,1 +1,1 @@
-# codefights-codesignal
+# My solutions for code challanges on codefights.com
